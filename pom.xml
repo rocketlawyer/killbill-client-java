@@ -28,15 +28,15 @@
     <packaging>jar</packaging>
     <name>Kill Bill Client Java</name>
     <description>Kill Bill Java client library</description>
-    <url>http://github.com/killbill/killbill-client-java</url>
+    <url>http://github.com/rocketlawyer/killbill-client-java</url>
     <scm>
-        <connection>scm:git:git://github.com/killbill/killbill-client-java.git</connection>
-        <developerConnection>scm:git:git@github.com:killbill/killbill-client-java.git</developerConnection>
-        <url>http://github.com/killbill/killbill-client-java/tree/master</url>
+        <connection>scm:git:git://github.com/rocketlawyer/killbill-client-java.git</connection>
+        <developerConnection>scm:git:git@github.com:rocketlawyer/killbill-client-java.git</developerConnection>
+        <url>http://github.com/rocketlawyer/killbill-client-java/</url>
     </scm>
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/killbill/killbill-client-java/issues</url>
+        <url>https://github.com/rocketlawyer/killbill-client-java/issues</url>
     </issueManagement>
     <dependencies>
         <dependency>
